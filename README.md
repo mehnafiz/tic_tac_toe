@@ -18,11 +18,7 @@ A classic Tic Tac Toe game built with Flutter, featuring player vs player functi
 
 | Game Start | Mid Game | Game Win | Game Draw |
 |------------|----------|----------|-----------|
-| ![Start Screen]![Screenshot from 2025-06-06 14-46-41](https://github.com/user-attachments/assets/08dfaa2e-f4a3-41d0-b199-2f0d46553db8)
-| ![Mid Game]![Screenshot from 2025-06-06 14-46-48](https://github.com/user-attachments/assets/a2a18c12-aa1c-4694-85c3-fdbb5011c225)
-| ![Win Screen]![Screenshot from 2025-06-06 14-47-14](https://github.com/user-attachments/assets/e3fbe267-9f15-4e19-8a94-9cd8c0982c76)
-| ![Draw Screen]![Screenshot from 2025-06-06 14-48-00](https://github.com/user-attachments/assets/a1776470-691d-4165-830b-af42cb92471b)
-|
+| ![Start Screen](https://github.com/user-attachments/assets/08dfaa2e-f4a3-41d0-b199-2f0d46553db8) | ![Mid Game](https://github.com/user-attachments/assets/a2a18c12-aa1c-4694-85c3-fdbb5011c225) | ![Win Screen](https://github.com/user-attachments/assets/e3fbe267-9f15-4e19-8a94-9cd8c0982c76) | ![Draw Screen](https://github.com/user-attachments/assets/a1776470-691d-4165-830b-af42cb92471b) |
 
 ## How to Play
 
