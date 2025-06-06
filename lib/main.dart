@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:tic_tac_toe/tictactoepage.dart';
+import 'homepage.dart';
 
 void main() => runApp(const tictactoe());
 
@@ -13,7 +14,7 @@ class tictactoe extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Tic Tac Toe',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const TicTacToePage(),
+      home: const HomePage(),
     );
   }
 }
