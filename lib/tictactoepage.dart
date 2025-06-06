@@ -53,12 +53,12 @@ class _TicTacToePageState extends State<TicTacToePage> {
           gradient: LinearGradient(
             colors: [
               Color(0xFF1F1F1F), // dark gray
-              Color(0xFF121212),
+              Color(0x5E5E5EF1),
             ],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
-        ),
+        ),S
         child: Column(
           children: [
             Expanded(
