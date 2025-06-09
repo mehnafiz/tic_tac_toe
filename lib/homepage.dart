@@ -81,7 +81,7 @@ class HomePage extends StatelessWidget {
                     borderRadius: BorderRadius.circular(35),
                   ),
                   elevation: 8,
-                  shadowColor: const Color(0xFFE74C3C).withOpacity(0.5),
+                  shadowColor: const Color(0xFFE74C3C),
                 ),
                 onPressed: () {
                   Navigator.push(
