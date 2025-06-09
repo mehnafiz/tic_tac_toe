@@ -38,12 +38,10 @@ class _TicTacToePageState extends State<TicTacToePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Tic Tac Toe' , style: TextStyle(fontSize: 30),),
+        title: const Text('Tic Tac Toe', style: TextStyle(fontSize: 30)),
         backgroundColor: Colors.grey[900],
         elevation: 0,
-        iconTheme: const IconThemeData(
-          color: Colors.white,
-        ),
+        iconTheme: const IconThemeData(color: Colors.white),
         titleTextStyle: GoogleFonts.pressStart2p(
           textStyle: const TextStyle(color: Colors.white, fontSize: 18),
         ),
@@ -58,7 +56,7 @@ class _TicTacToePageState extends State<TicTacToePage> {
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
-        ),S
+        ),
         child: Column(
           children: [
             Expanded(
